@@ -1,2 +1,2 @@
 add a txt file in linux
-add a ssh on ubuntu
+add a ssh on ubuntu.
